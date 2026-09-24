@@ -1,8 +1,7 @@
 # Personal Task Manager
 
-Project Code: WST21-PM-2026-SF
-Student Name: 
-Course & Year: 
+Student Name: Clarck Nhelzen Lorenzo
+Course & Year: BSIT - 2ND YEAR
 Database Used: MySQL
 
 ## Features
